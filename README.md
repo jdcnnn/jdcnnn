@@ -19,7 +19,7 @@ My goal is to create applications that are intuitive, reliable, and meaningful w
 ## Contact
 
 * GitHub: https://github.com/jdcnnn
-* Portfolio: Coming Soon
+* Portfolio: https://jadecunanan-portfolio.vercel.app/
 
 ---
 
